@@ -51,7 +51,7 @@ class ADAMonitor:
     def monitor(self):
         print("Awaiting set price")
 
-        alertAmount = "1.825"
+        alertAmount = "1.6"
         alertAmountInt = self.convertToInt(alertAmount)
 
         while True:
