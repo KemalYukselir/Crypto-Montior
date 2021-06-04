@@ -4,4 +4,4 @@ from lib.monitors.ADAMonitor import ADAMonitor
 
 class Main:
     def __init__(self):
-        print("Got here")
+        print("Init")
