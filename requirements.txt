@@ -1,3 +1,0 @@
-discordWebhookSender
-requests
-bs4
